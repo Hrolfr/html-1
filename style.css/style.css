@@ -6,7 +6,6 @@
 .v-menu ul{
  margin:  0;
  padding: 0;
- background-color: #ccc;
  overflow: hidden;
 }
 
@@ -40,4 +39,7 @@
  margin-bottom: 0;
  background-color: black;
 
+}
+.pesquisar{
+    margin-top: 0;
 }
