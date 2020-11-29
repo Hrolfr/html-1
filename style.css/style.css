@@ -16,10 +16,11 @@
 
 .v-menu li a {
  display: block;
- color: white;
+ color: rgb(255, 247, 247);
  padding: 16px 16px;
  text-decoration:none;
-
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 14px;
 }
 
 .v-menu li a:hover{
@@ -31,7 +32,7 @@
  margin-top: 0;
  text-align: center;
  color: cornsilk;
- background-color: rgb(196, 109, 48);
+ background-color: rgb(174, 148, 109); ;
 }
 
 .v-menu{
@@ -41,3 +42,8 @@
 
 }
 
+.psqs{
+    margin-top: 16px;
+    background-color: black;
+    color: gray;
+}
