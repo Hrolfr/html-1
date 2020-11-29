@@ -29,20 +29,20 @@
 
 .p-1{
  margin-bottom: auto;
- margin-top: 0;
+ margin-top: 0 ;
  text-align: center;
  color: cornsilk;
  background-color: rgb(174, 148, 109); 
  padding-top: 12px;
  padding-bottom: 12px;
- 
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 12px;
 }
 
 .v-menu{
  margin-top: 0;
  margin-bottom: 0;
  background-color: black;
-
 }
 
 .psqs{
