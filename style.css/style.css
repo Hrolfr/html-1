@@ -24,7 +24,7 @@
 }
 
 .v-menu li a:hover{
- background-color: black;
+ color: gray;
 }
 
 .p-1{
@@ -36,7 +36,8 @@
 }
 
 .v-menu{
-    margin-top: 0;
-    margin-bottom: 0;
+ margin-top: 0;
+ margin-bottom: 0;
+ background-color: black;
 
 }
