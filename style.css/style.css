@@ -1,26 +1,20 @@
 
 .link-1{
-    color: cornsilk;
+ color: cornsilk;
 }
 
 .v-menu ul{
-    margin:  0;
-    padding: 0;
-    overflow: hidden;
-   }
+ margin:  0;
+ padding: 0;
+ overflow: hidden;
+}
   
-   .psqs {
-    margin:  0;
-    padding: 0;
-    overflow: hidden;
-   }
+.psqs {
+ overflow: hidden;
+ display: inline;
+ float: left;
+ }
    
-   .psqs{
-    display: inline;
-    float: left;
-    display: block;
-   }
-
 .v-menu li{
  display: inline;
  float: left;
@@ -52,6 +46,4 @@
  background-color: black;
 
 }
-.pesquisar{
-    margin-top: 0;
-}
+
