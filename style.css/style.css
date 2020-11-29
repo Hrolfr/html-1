@@ -8,13 +8,7 @@
  padding: 0;
  overflow: hidden;
 }
-  
-.psqs {
- overflow: hidden;
- display: inline;
- float: left;
- }
-   
+
 .v-menu li{
  display: inline;
  float: left;
