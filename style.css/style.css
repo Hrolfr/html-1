@@ -4,10 +4,22 @@
 }
 
 .v-menu ul{
- margin:  0;
- padding: 0;
- overflow: hidden;
-}
+    margin:  0;
+    padding: 0;
+    overflow: hidden;
+   }
+  
+   .psqs {
+    margin:  0;
+    padding: 0;
+    overflow: hidden;
+   }
+   
+   .psqs{
+    display: inline;
+    float: left;
+    display: block;
+   }
 
 .v-menu li{
  display: inline;
